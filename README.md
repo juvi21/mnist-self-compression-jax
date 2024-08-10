@@ -1,1 +1,1 @@
-# Self compression JAX
+# Self-compressing neural networks in JAX
